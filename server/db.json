@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Mick Herron",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": "14.99",
+      "rating": 3,
+      "featured": false,
+      "id": 1
+    },
+    {
+      "name": "Eloquent JavaScript, 3rd Edition",
+      "author": "Marijn Haverbeke",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": "25.99",
+      "rating": 4,
+      "featured": "true",
+      "id": 4
+    },
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "price": "10.99",
+      "author": "Laura Dave",
+      "rating": "4",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "featured": false,
+      "id": 5
+    },
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "price": "15",
+      "author": "Mick Herron",
+      "rating": "2",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "featured": false,
+      "id": 6
+    },
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "price": "16",
+      "author": "Laura Dave",
+      "rating": "3",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "featured": false,
+      "id": 7
+    },
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "price": "12.33",
+      "author": "Laura Dave",
+      "rating": "5",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "featured": true,
+      "id": 8
+    }
+  ]
+}
